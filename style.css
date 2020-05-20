@@ -1,5 +1,4 @@
 body {
-    font-family: 'Montserrat', sans-serif;
     font-family: 'Open Sans', sans-serif;
     background-color: rgb(235, 235, 235);
     text-align:center;
@@ -29,9 +28,11 @@ strong {
 }
 h1 {
     color: rgb(221, 85, 85);
+    font-family: 'Montserrat', sans-serif;
 }
 h2 {
     color: rgb(150, 150, 150);
+    font-family: 'Montserrat', sans-serif;
 }
 .more_grey {
     color: rgb(100, 100,100);
@@ -66,4 +67,17 @@ li {
     margin: 0;
     width: auto;
     border-radius: 0px;
+}
+img {
+    width: 30%;
+    height: auto;
+    margin-right: 20px;
+}
+article {
+    margin: 25px;
+}
+.film-title {
+    text-align: center;
+    display: block;
+    font-weight: bold;
 }
