@@ -17,6 +17,7 @@ div {
 p {
     text-align: left;
     color: rgb(150, 150, 150);
+    margin-bottom: 0px;
 }
 strong {
     font-weight: bolder;
@@ -36,7 +37,8 @@ h2 {
     color: rgb(100, 100,100);
 }
 .button {
-    padding: 20px;
+    padding: 10px;
+    margin-bottom: 0px;
     text-align: center;
     display: inline-block;
     background-color:  rgb(221, 85, 85);
